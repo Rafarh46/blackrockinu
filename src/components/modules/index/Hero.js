@@ -7,7 +7,7 @@ const Hero = () => {
   
   return (
     <>
-    <FsLightbox toggler={toggler} sources={["https://youtu.be/MHhIzIgFgJo"]} />
+    <FsLightbox toggler={toggler} sources={[""]} />
     <section className="banner banner--style1" id="hero">
       <div className="banner__bg">
         <div className="banner__bg-element">

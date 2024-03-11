@@ -7,7 +7,7 @@ function Roadmap() {
     <section className="roadmap roadmap--style1 padding-top  padding-bottom bg-color" id="roadmap">
     <div className="container">
       <div className="section-header section-header--max50">
-        <h2 className="mb-15 mt-minus-5">PESHIDO <span> roadmap</span></h2>
+        <h2 className="mb-15 mt-minus-5">BlackRock <span> roadmap</span></h2>
         <p>A product roadmap shows the path ahead, helps teams plan, and guides the delivery of the product.</p>
       </div>
       <div className="roadmap__wrapper">
@@ -22,8 +22,7 @@ function Roadmap() {
                   </div>
                   <p>Embark on our journey with an exclusive token presale event, offering early 
                     adopters special benefits such as discounted token prices or bonus rewards. 
-                    This presale marks the beginning of our mission to unite the communities of PEPE,
-                     Doge, and Shiba Inu under the banner of Peshido.</p>
+                    This presale marks the beginning of our mission to unite the communities meme and BlackRock.</p>
                 </div>
               </div>
 
@@ -39,7 +38,7 @@ function Roadmap() {
                     <span>P2</span>
                   </div>
                   <p> Our team conducts rigorous smart contract audits to guarantee the security and functionality of the
-                     Peshido ecosystem, providing peace of mind to our community and investors.</p>
+                     BlackRock Inu ecosystem, providing peace of mind to our community and investors.</p>
                 </div>
               </div>
 
@@ -53,7 +52,7 @@ function Roadmap() {
                     <h3>Step 3: Launch and Initial Marketing</h3>
                     <span>P3</span>
                   </div>
-                  <p>The moment has arrived as we officially launch the Peshido token to the world! With enthusiasm 
+                  <p>The moment has arrived as we officially launch the BlackRock Inu token to the world! With enthusiasm 
                     and determination, we embark on an extensive marketing campaign to spread awareness and attract 
                     a diverse community of supporters. Through strategic partnerships, influencers and meme 
                      communities alike join us in celebrating the fusion of memes and crypto, amplifying our message 
@@ -88,7 +87,7 @@ function Roadmap() {
                     <h3>Step 5: Exchange Listings and Partnerships</h3>
                     <span>P5</span>
                   </div>
-                  <p>As Peshido continues to gain momentum, we expand our presence by securing listings on prominent decentralized
+                  <p>As  BlackRock Inu continues to gain momentum, we expand our presence by securing listings on prominent decentralized
                      and centralized exchanges. These listings enhance liquidity and accessibility, enabling a broader audience to
                       participate in the Peshido ecosystem. Concurrently, we forge strategic partnerships with like-minded projects,
                        influencers, and blockchain platforms, amplifying our reach and credibility within the crypto community.</p>

@@ -44,7 +44,7 @@ export default function App({ Component, pageProps }) {
       <Head>
         <title>
           {
-            "Peshido: Uniting Memes and CryptoBitrader "
+            "BlackRock Inu: Uniting Memes and Blackrock "
           }
         </title>
 
