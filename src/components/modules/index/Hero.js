@@ -38,7 +38,7 @@ const Hero = () => {
                 Welcome to Blackrock Inu, where Blackrock meets MEME community in the world of decentralized finance. 
                 As the cryptocurrency landscape continues to evolve, we stand at the forefront, driven by a vision 
                 of empowering individuals to seize control of their financial destinies. Built on the Solana blockchain,
-                 Blackrock Inu represents more than just a digital currency; it's a movement towards a future where financial 
+                 Blackrock Inu represents more than just a digital currency; it s a movement towards a future where financial 
                  freedom is accessible to all. Join us as we embark on this journey together, forging new paths and redefining
                   the possibilities of decentralized finance.
                 </p>
