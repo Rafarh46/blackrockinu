@@ -70,7 +70,7 @@ function Roadmap() {
                     <h3>Step 4: Community Building and Growth </h3>
                     <span>P4</span>
                   </div>
-                  <p>At the heart of Peshido lies a vibrant and inclusive community, united by a shared passion for memes 
+                  <p>At the heart of BlackRock Inu lies a vibrant and inclusive community, united by a shared passion for memes 
                     and cryptocurrency. Over the coming months, we devote ourselves to nurturing this community, 
                     fostering meaningful connections, and empowering individuals to contribute their unique talents 
                     and perspectives.</p>
