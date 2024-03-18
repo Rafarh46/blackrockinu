@@ -26,21 +26,21 @@ export default function Document() {
         />
         <meta
           name="description"
-          content="Discover Peshido, the ultimate fusion of memes and cryptocurrency. Join our vibrant community and explore exclusive tokenomics. Be part of the meme revolution with Peshido!"
+          content="Discover BlackRock Inu, the ultimate fusion of memes and cryptocurrency. Join our vibrant community and explore exclusive tokenomics. Be part of the meme revolution with Peshido!"
         />
 
         <meta
           property="og:title"
           content="BlackRock Inu | Solana token blackrock bitcoin etf"
         />
-        <meta property="og:site_name" content="Bitrader" />
+        <meta property="og:site_name" content="Blackrock Inu" />
         <meta
           property="og:url"
-          content="https://bitrader-next.thetork.com"
+          content="https://blackrockinu.tech"
         />
         <meta
           property="og:description"
-          content="Explore the future of online trading with Bitrader React Next.js Template by TheTork. Empower your crypto, stock, forex, and day trading ventures with a seamless user experience. Unleash the power of modern web technologies for a cutting-edge and efficient trading platform."
+          content="Explore meme tokens with blackrock inu."
         />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/images/og.jpg" />

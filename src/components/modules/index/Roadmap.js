@@ -89,7 +89,7 @@ function Roadmap() {
                   </div>
                   <p>As  BlackRock Inu continues to gain momentum, we expand our presence by securing listings on prominent decentralized
                      and centralized exchanges. These listings enhance liquidity and accessibility, enabling a broader audience to
-                      participate in the Peshido ecosystem. Concurrently, we forge strategic partnerships with like-minded projects,
+                      participate in the BlackRock Inu ecosystem. Concurrently, we forge strategic partnerships with like-minded projects,
                        influencers, and blockchain platforms, amplifying our reach and credibility within the crypto community.</p>
                 </div>
               </div>

@@ -101,7 +101,7 @@ function Footer() {
             <div className="footer__bottom">
               <div className="footer__end">
                 <div className="footer__end-copyright">
-                  <p className=" mb-0">© 2024 All Rights Reserved By <span>PESHIDO</span> </p>
+                  <p className=" mb-0">© 2024 All Rights Reserved By <span>BlackRock Inu</span> </p>
                 </div>
                 <div>
                   <ul className="social">
