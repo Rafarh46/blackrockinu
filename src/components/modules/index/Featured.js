@@ -3,7 +3,7 @@ import Counter from "@/components/base/Counter";
 const featureData = [
   {
     Benefit: "Liquidity",
-    rating: "images/feature/5.png",
+    rating: "iimages/feature/p50.png",
     availableForLoan: 46,
     img: "/images/feature/shoes.png",
   },
@@ -27,7 +27,7 @@ const featureData = [
   },
   {
     Benefit: "Public Sale",
-    rating: "images/feature/p50.png",
+    rating: "images/feature/5.png",
     availableForLoan: 46,
     img: "/images/feature/shoes.png",
   },
