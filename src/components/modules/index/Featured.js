@@ -4,31 +4,31 @@ const featureData = [
   {
     Benefit: "Liquidity",
     rating: "images/feature/p50.png",
-    availableForLoan: 46,
+    availableForLoan: 6.8,
     img: "/images/feature/Shoes.png",
   },
   {
     Benefit: "Marketing",
     rating: "images/feature/5.png",
-    availableForLoan: 46,
+    availableForLoan: 6.8,
     img: "/images/feature/Shoes.png",
   },
   {
     Benefit: "Private Sale",
     rating: "images/feature/p10.png",
-    availableForLoan: 46,
+    availableForLoan: 6.8,
     img: "/images/feature/Shoes.png",
   },
   {
     Benefit: "Team",
     rating: "images/feature/p10.png",
-    availableForLoan: 46,
+    availableForLoan: 6.8,
     img: "/images/feature/Shoes.png",
   },
   {
     Benefit: "Public Sale",
     rating: "images/feature/5.png",
-    availableForLoan: 46,
+    availableForLoan: 6.8,
     img: "/images/feature/Shoes.png",
   },
 ];
@@ -50,7 +50,7 @@ function Featured() {
                       <h2 className="mb-15 mt-minus-5">
                         {" "}
                         $PESH<span> Tokenomics </span>
-                        46,464,646,464,646 Supply <span>No taxes</span>
+                        6,868,686,868 Supply <span>No taxes</span>
                       </h2>
                       <p className="mb-0">
                         
@@ -115,7 +115,7 @@ function Featured() {
                                     {/* {item.availableForLoan} */}
                                     <Counter start={0} end={item.availableForLoan} delay={30}/>
                                   </span>
-                                  T
+                                  B
                                 </h3>
                                 <p className="ms-3 style2">
                                   Supply
