@@ -104,7 +104,7 @@ const Hero = () => {
                   <ul className="social">
                     <li className="social__item">
                       <Link
-                        scroll={false} href="https://www.facebook.com/profile.php?id=61557116752167"
+                        scroll={false} href=""
                         className="social__link social__link--style1 active"
                       >
                         <i className="fab fa-facebook-f"></i>
@@ -112,7 +112,7 @@ const Hero = () => {
                     </li>
                     <li className="social__item">
                       <Link
-                        scroll={false} href="https://t.me/peshido"
+                        scroll={false} href="https://t.me/blackrockinutoken"
                         className="social__link social__link--style1 "
                       >
                         <i className="fab fa-telegram"></i>
@@ -121,7 +121,7 @@ const Hero = () => {
                     
                     <li className="social__item">
                       <Link
-                        href="https://twitter.com/PeshidoToken"
+                        href="https://twitter.com/BRINUTOKEN"
                         className="social__link social__link--style1 "
                       >
                         <i className="fab fa-twitter"></i>
