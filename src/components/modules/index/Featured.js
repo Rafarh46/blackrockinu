@@ -3,33 +3,33 @@ import Counter from "@/components/base/Counter";
 const featureData = [
   {
     Benefit: "Liquidity",
-    rating: "iimages/feature/p50.png",
+    rating: "images/feature/p50.png",
     availableForLoan: 46,
-    img: "/images/feature/shoes.png",
+    img: "/images/feature/Shoes.png",
   },
   {
     Benefit: "Marketing",
     rating: "images/feature/5.png",
     availableForLoan: 46,
-    img: "/images/feature/shoes.png",
+    img: "/images/feature/Shoes.png",
   },
   {
     Benefit: "Private Sale",
     rating: "images/feature/p10.png",
     availableForLoan: 46,
-    img: "/images/feature/shoes.png",
+    img: "/images/feature/Shoes.png",
   },
   {
     Benefit: "Team",
     rating: "images/feature/p10.png",
     availableForLoan: 46,
-    img: "/images/feature/shoes.png",
+    img: "/images/feature/Shoes.png",
   },
   {
     Benefit: "Public Sale",
     rating: "images/feature/5.png",
     availableForLoan: 46,
-    img: "/images/feature/shoes.png",
+    img: "/images/feature/Shoes.png",
   },
 ];
 function Featured() {
