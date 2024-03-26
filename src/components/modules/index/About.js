@@ -58,7 +58,7 @@ function About() {
                    dedicated to providing a platform for individuals to achieve financial freedom. 
                    Our mission is to empower our members through education, collaboration, and access to 
                    innovative blockchain technology. With a focus on inclusivity and transparency, Blackrock
-                    Inu aims to create a supportive environment where every member can thrive. Join us on our
+                    Inu aims to create a supportive environment where every member can thrive.Join us on our
                      journey towards a decentralized future where financial freedom is within reach for everyone.{" "}
                   </p>
                   <Link href="about"
